@@ -26,6 +26,7 @@ namespace Git_Sample20260309.Controllers
         {
             Console.Write("Test");
             Console.Write("Added branch");
+             Console.Write("Added branch2");
         }
 
         // PUT api/<controller>/5
